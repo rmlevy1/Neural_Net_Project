@@ -1,4 +1,4 @@
-# Neural_Net_Project
+# NLP Project
 
 1. Created a classification model that used text data features from job description postings in the United States to determine if a job posting was fraudulent or not. 
 2. Performed Exploratory Data Analysis to identify key traits of job descriptions which are fraudulent in nature.
